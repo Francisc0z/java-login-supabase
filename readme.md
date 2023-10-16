@@ -1,0 +1,1 @@
+No fue muy buena idea intentar implementar supabase desde el backend
